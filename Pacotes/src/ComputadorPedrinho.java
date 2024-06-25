@@ -11,6 +11,5 @@ public class ComputadorPedrinho {
         TelegramMessenger tlg = new TelegramMessenger();
         tlg.enviarMensagem();
         tlg.receberMensagem();
-        
     }
 }
